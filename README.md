@@ -1,2 +1,2 @@
 # CadastrarClientes
-Feito com C#, utilizando o SQL Server.
+Programado em C#, utiizando o SQL Server Data Base.
